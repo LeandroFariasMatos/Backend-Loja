@@ -34,8 +34,6 @@ public class Produto {
     @Column(name="caminho_Image")
     private String caminhoImage;
 
-//    @OneToMany
-//    private List<Vendas> vendasProduto;
 
 
 
